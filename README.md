@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @alvaroatencio
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+💻Soy Desarrollador Jr, con experiencia en java/backend y data/cloud. Con estudios universitarios y algunos cursitos que me han permitido expandir mis conocimientos.
 
-<!---
-alvaroatencio/alvaroatencio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📚Me considero una persona proactiva, versatil y dinámica. Pretendo siempre estar a la altura en cada area en la que me he introducido laboralmente, adquiriendo los conocimientos necesarios y siempre enfocado en los objetivos.
+
+🎯Hoy estoy en busqueda de mi primera experiencia laboral en el ambito de la programación, con especial interes en desarrollo backend, data y cloud.
