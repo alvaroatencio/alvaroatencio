@@ -1,0 +1,10 @@
+//Certificado extraviado//
+
+Organizado y dirigido por profesores de la universidad.
+Se nos capacitó para realizar una demo de un videojuego.
+Nos dividimos en grupos para cada proceso del proyecto:
+
+*Diseñadores.
+*Programadores.
+*Guion y Arte .
+*Analistas y documentadores.
